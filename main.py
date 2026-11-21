@@ -9,17 +9,17 @@ input, opens no socket, and is deterministic: the same poem every run.
 
 import os
 
-# Learning to drive with a father: the gas is learned in a day, the brake in
-# years. The last image is the choice to stay put, taken as the poem's own.
+# A breakwater: a thing whose only power is to stay. The poem turns the town's
+# contempt for the wall into the inheritance the speaker now agrees to hold.
 POEM = (
-    "My father taught me the gas in a day.\n"
-    "The brake took years\u2014\n"
-    "a foot learning to hover,\n"
-    "a hill trusting us back.\n"
-    "He is gone. Tonight I park\n"
-    "and sit in the dark driveway,\n"
-    "the key still in, going nowhere\n"
-    "on purpose.\n"
+    "Grandfather built backwards:\n"
+    "stone against stone against the sea,\n"
+    "a wall whose whole job was to stay.\n"
+    "The town called it wasted ground.\n"
+    "It is the only reason the town stands.\n"
+    "I hold the deed now,\n"
+    "and the same small refusal,\n"
+    "mortared in.\n"
 )
 
 
