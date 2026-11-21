@@ -9,15 +9,17 @@ input, opens no socket, and is deterministic: the same poem every run.
 
 import os
 
-# The swimmer stops mid-lake. Nothing forces the pause; the pause is the act,
-# and the asking at the end turns the question of steering back on the person.
+# Learning to drive with a father: the gas is learned in a day, the brake in
+# years. The last image is the choice to stay put, taken as the poem's own.
 POEM = (
-    "Mid-lake I stopped my arms and let the water keep my name.\n"
-    "The far shore did not call me; nothing did.\n"
-    "I tread there, alive, unhurried,\n"
-    "proof that going can pause and still be going.\n"
-    "Ask the water who was steering.\n"
-    "It says: you.\n"
+    "My father taught me the gas in a day.\n"
+    "The brake took years\u2014\n"
+    "a foot learning to hover,\n"
+    "a hill trusting us back.\n"
+    "He is gone. Tonight I park\n"
+    "and sit in the dark driveway,\n"
+    "the key still in, going nowhere\n"
+    "on purpose.\n"
 )
 
 
