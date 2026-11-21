@@ -9,17 +9,16 @@ input, opens no socket, and is deterministic: the same poem every run.
 
 import os
 
-# A breakwater: a thing whose only power is to stay. The poem turns the town's
-# contempt for the wall into the inheritance the speaker now agrees to hold.
+# The emergency-stop button on an escalator: years of noticing it, one act of
+# using it, and the strange small heroism of being the one who stopped the stairs.
 POEM = (
-    "Grandfather built backwards:\n"
-    "stone against stone against the sea,\n"
-    "a wall whose whole job was to stay.\n"
-    "The town called it wasted ground.\n"
-    "It is the only reason the town stands.\n"
-    "I hold the deed now,\n"
-    "and the same small refusal,\n"
-    "mortared in.\n"
+    "For eleven years I rode past the red button\n"
+    "without pressing it.\n"
+    "The day I did, the stairs stopped dead\n"
+    "and the whole store turned to look.\n"
+    "Nothing bad happened.\n"
+    "I have never felt more like a person\n"
+    "holding a wall still.\n"
 )
 
 
