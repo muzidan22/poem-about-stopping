@@ -9,16 +9,17 @@ input, opens no socket, and is deterministic: the same poem every run.
 
 import os
 
-# The emergency-stop button on an escalator: years of noticing it, one act of
-# using it, and the strange small heroism of being the one who stopped the stairs.
+# Climbing: the anchor's power is the power to stay, and holding is a choice
+# as deliberate as letting go. The sky's stillness mirrors the held body.
 POEM = (
-    "For eleven years I rode past the red button\n"
-    "without pressing it.\n"
-    "The day I did, the stairs stopped dead\n"
-    "and the whole store turned to look.\n"
-    "Nothing bad happened.\n"
-    "I have never felt more like a person\n"
-    "holding a wall still.\n"
+    "My partner was falling and I was the anchor.\n"
+    "I could have let go; that was the point.\n"
+    "I held. The rope sang. The rock held.\n"
+    "Above me the sky stayed exactly\n"
+    "where it was, doing nothing\n"
+    "like me, and on purpose.\n"
+    "I have never done anything\n"
+    "so much like choosing.\n"
 )
 
 
