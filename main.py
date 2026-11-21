@@ -9,18 +9,15 @@ input, opens no socket, and is deterministic: the same poem every run.
 
 import os
 
-# One concrete scene: a hand that chooses not to finish the mow. The mower
-# has no opinion; the person supplies one, and the withholding is the deed.
+# The swimmer stops mid-lake. Nothing forces the pause; the pause is the act,
+# and the asking at the end turns the question of steering back on the person.
 POEM = (
-    "The mower had no opinion. I gave it mine:\n"
-    "one patch of violets, kept.\n"
-    "\n"
-    "The neighbors' lawn proved they'd started;\n"
-    "ours proved we'd stopped.\n"
-    "\n"
-    "No river chooses its bank.\n"
-    "Ask whose hand left this blue standing\u2014\n"
-    "the afternoon still yours.\n"
+    "Mid-lake I stopped my arms and let the water keep my name.\n"
+    "The far shore did not call me; nothing did.\n"
+    "I tread there, alive, unhurried,\n"
+    "proof that going can pause and still be going.\n"
+    "Ask the water who was steering.\n"
+    "It says: you.\n"
 )
 
 
